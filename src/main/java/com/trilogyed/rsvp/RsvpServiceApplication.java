@@ -12,4 +12,7 @@ public class RsvpServiceApplication {
 		SpringApplication.run(RsvpServiceApplication.class, args);
 	}
 
+	// Adding comment to trigger refresh
+
+
 }
